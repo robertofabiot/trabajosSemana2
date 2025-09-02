@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicio1GastosGira", "eje
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicio2Ferreteria", "ejercicio2Ferreteria\ejercicio2Ferreteria.csproj", "{83824A0E-52C4-4DC0-BE84-9337CC256504}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicio3RegistroCliente", "ejercicio3RegistroCliente\ejercicio3RegistroCliente.csproj", "{00668A56-BCE8-4A3A-B64F-39136FD47DF1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{83824A0E-52C4-4DC0-BE84-9337CC256504}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83824A0E-52C4-4DC0-BE84-9337CC256504}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83824A0E-52C4-4DC0-BE84-9337CC256504}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00668A56-BCE8-4A3A-B64F-39136FD47DF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00668A56-BCE8-4A3A-B64F-39136FD47DF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00668A56-BCE8-4A3A-B64F-39136FD47DF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00668A56-BCE8-4A3A-B64F-39136FD47DF1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

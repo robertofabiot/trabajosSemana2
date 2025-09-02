@@ -9,8 +9,6 @@ while (true)
     {
         Console.Write("Ingrese su nombre completo: ");
         nombreCliente = Console.ReadLine();
-
-        Console.WriteLine($"nombreCliente.Length = {nombreCliente.Length}");
         nombreCliente = (nombreCliente.Length == 0) ? null: nombreCliente.Trim().ToUpper();
 
         if (nombreCliente == null)

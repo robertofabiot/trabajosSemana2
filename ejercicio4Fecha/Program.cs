@@ -21,6 +21,7 @@ while (true)
     catch (FormatException)
     {
         Console.WriteLine("Ingrese una fecha en formato dd/MM/yyyy. Por ejemplo, 04/10/2007");
+        conteoErrores++;
     }
 }
 
@@ -36,3 +37,4 @@ else
 }
 
 Console.WriteLine($"Fecha registrada: {fechaFormato}");
+Console.WriteLine($"Errores contados: {conteoErrores}");
